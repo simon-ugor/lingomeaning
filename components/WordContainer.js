@@ -7,7 +7,12 @@ const WordContainer = (props) => {
         <Link href={props.link}>
             <a className="lyrics-container">
                 <div className="image-div">
-
+                    <Image
+                        src="/pen.png"
+                        alt="Pen Image"
+                        width={50}
+                        height={50}
+                    />
                 </div>
                 <div className="song-div">
                     <h2 className="song-heading">{props.word}</h2>
@@ -16,5 +21,5 @@ const WordContainer = (props) => {
         </Link>
     )
 }
-WordContainer
+
 export default WordContainer
