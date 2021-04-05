@@ -28,7 +28,7 @@ const Word = () => {
         let url = window.location.href
 
         WordsData.map(d => {
-            if (url === "http://localhost:3000/" + d.link) {
+            if (url === "https://lingomeaning.com/" + d.link) {
                 if (d.meaning1 && d.meaning2 && d.meaning3 && d.meaning4){
                     setAmount(4)
                     setWord1(d.word)

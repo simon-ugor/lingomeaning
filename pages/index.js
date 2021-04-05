@@ -57,10 +57,10 @@ const Index = () => {
         <Layout>
             <Head>
                 <title>LingoMeaning</title>
-                <meta name="description" content="Finish this" />
+                <meta name="description" content="Find meaning of words or phrases. Have you heard a word in song you don't know meaning of? Well this is the right place for you. Welcome to lingomeaning.com" />
             </Head>
             <div className="content-main-div">
-                <input className="lyrics-search" onChange={handleSearch} placeholder="Search artists" type="text"></input>
+                <input className="lyrics-search" onChange={handleSearch} placeholder="Search words" type="text"></input>
                 <div style={{display: searchDiv}} className="search-lyrics-div">
                     {search.length > 0 && search.map(a => {
                         return <WordContainer key={a} word={a} link={"/word/" + a.replaceAll(" ", "-").toLowerCase() + "-meaning"} />
