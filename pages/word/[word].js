@@ -24,6 +24,11 @@ const Word = () => {
 
     const [amount, setAmount] = useState()
 
+    const [sliced, setSliced] = useState(WordsData.slice(0, 10))
+
+    let prod = "https://lingomeaning.com/"
+    let local = "http://localhost:3000/"
+
     useEffect(() => {
         let url = window.location.href
 
@@ -97,6 +102,17 @@ const Word = () => {
                             <p style={{marginBottom: "2vh"}}>{example1}</p>
                         </div>
                         <h1 className="song-lyrics-heading">Similar Words</h1>
+                        {sliced.map(d => {
+                            if (d.word !== word1) {
+                                return (<div><h1 className="artist-lyrics-heading">{d.word}</h1>
+                                        <h1 className="song-lyrics-heading">Meaning</h1>
+                                        <div className="song-lyrics-div"><p>{d.meaning1}</p></div>
+                                        <h1 className="song-lyrics-heading">Example</h1>
+                                        <div className="song-lyrics-div">
+                                        <p>{d.example1}</p>
+                                        </div></div>)
+                            }
+                        })}
                     </div>
                     <Footer />
                 </div>
@@ -129,6 +145,17 @@ const Word = () => {
                         </div>
 
                         <h1 className="song-lyrics-heading">Similar Words</h1>
+                        {sliced.map(d => {
+                            if (d.word !== word1) {
+                                return (<div><h1 className="artist-lyrics-heading">{d.word}</h1>
+                                        <h1 className="song-lyrics-heading">Meaning</h1>
+                                        <div className="song-lyrics-div"><p>{d.meaning1}</p></div>
+                                        <h1 className="song-lyrics-heading">Example</h1>
+                                        <div className="song-lyrics-div">
+                                        <p>{d.example1}</p>
+                                        </div></div>)
+                            }
+                        })}
                     </div>
                     <Footer />
                 </div>
@@ -171,6 +198,17 @@ const Word = () => {
                             <p style={{marginBottom: "2vh"}}>{example3}</p>
                         </div>
                         <h1 className="song-lyrics-heading">Similar Words</h1>
+                        {sliced.map(d => {
+                            if (d.word !== word1) {
+                                return (<div><h1 className="artist-lyrics-heading">{d.word}</h1>
+                                        <h1 className="song-lyrics-heading">Meaning</h1>
+                                        <div className="song-lyrics-div"><p>{d.meaning1}</p></div>
+                                        <h1 className="song-lyrics-heading">Example</h1>
+                                        <div className="song-lyrics-div">
+                                        <p>{d.example1}</p>
+                                        </div></div>)
+                            }
+                        })}
                     </div>
                     <Footer />
                 </div>
@@ -224,6 +262,17 @@ const Word = () => {
 
 
                         <h1 className="song-lyrics-heading">Similar Words</h1>
+                        {sliced.map(d => {
+                            if (d.word !== word1) {
+                                return (<div><h1 className="artist-lyrics-heading">{d.word}</h1>
+                                        <h1 className="song-lyrics-heading">Meaning</h1>
+                                        <div className="song-lyrics-div"><p>{d.meaning1}</p></div>
+                                        <h1 className="song-lyrics-heading">Example</h1>
+                                        <div className="song-lyrics-div">
+                                        <p>{d.example1}</p>
+                                        </div></div>)
+                            }
+                        })}
                     </div>
                     <Footer />
                 </div>
