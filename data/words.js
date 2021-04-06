@@ -114,6 +114,118 @@ const words = [
         "link": "word/milli-meaning",
         "new": true
     },
+    {
+        "word": "A big bag of beans",
+        'meaning1': 'An annoying or otherwise less-than-ideal situation; an undesirable state for one to be in.',
+        'example1': '“Man, this new project is really making class a big bag of beans.”',
+        "link": "word/a-big-bag-of-beans-meaning",
+    },
+    {
+        "word": "A Big Decision",
+        'meaning1': 'When the choice between two objects has either equally positive or negative effects, and so is really, really hard to make.',
+        'example1': 'Tomorrow I have to make a big decision.',
+        "link": "word/a-big-decision-meaning",
+    },
+    {
+        "word": "A big hand",
+        'meaning1': 'Enthusiastic round of applause',
+        'example1': "Let’s give him a big hand.",
+        "link": "word/a-big-hand-meaning",
+        "new": true
+    },
+    {
+        "word": "A Big Rest",
+        'meaning1': 'To have a big rest is very similar to cotch. It is basically resting for a large amount of time with disregard to other activitys that may need attending to.  Big Rest’s are enhanced by any type of entoxicant.',
+        'meaning2': 'Dead. A dirt nap. The Long Sleep.',
+        'example1': 'We’ve been walking for minutes lets have A Big Rest  It’s time for A Big Rest',
+        'example2': 'You mess with Luthor’s girlfriend, you’ll be taking a Big Rest.',
+        "link": "word/a-big-rest-meaning",
+    },
+    {
+        "word": "A bigger fish",
+        'meaning1': 'A bigger fish is something that always exists.',
+        'example1': 'person 1 : It says that the biggest fish in the ocean is the Rhincodon typus person 2 : That’s impossible. There’s always a bigger fish',
+        "link": "word/a-bigger-fish-meaning",
+        "new": true
+    },
+    {
+        "word": "A Birkett",
+        'meaning1': 'Completing a 5k run in under 25 minutes.',
+        'example1': 'Dude I just ran a 5k in 24.07, can’t believe I did a birkett',
+        "link": "word/a-birkett-meaning",
+    },
+    {
+        "word": "A Bishop",
+        'meaning1': 'To go to a place with the intention and expectation to do something. Then doing something completely different that has little to no correlation to the original task and then complaining when it doesn’t work out.',
+        'example1': 'He’s gone and done a bishop. I’m just gonna do a bishop.',
+        "link": "word/a-bishop-meaning",
+    },
+    {
+        "word": "A bit downey",
+        'meaning1': 'When something is described as silly, stupid or messed up.',
+        'example1': '‘Well, that was a bit downey!’',
+        "link": "word/a-bit-downey-meaning",
+    },
+    {
+        "word": "A bit of a handful",
+        'meaning1': 'difficult to look after, especially children and animals.',
+        'meaning2': 'When your kid is allowed to misbehave, but you choose to find it adorable.',
+        'example1': 'Your son can be a bit of a handful at times.',
+        'example2': 'Veronica can be a bit of a handful at times.',
+        "link": "word/a-bit-of-a-handful-meaning",
+    },
+    {
+        "word": "A bit willy",
+        'meaning1': 'A phrase used to describe something that doesn’t quite meet your expectations.',
+        'example1': 'Joe: What did you think of the trip? Ross: It was a bit willy',
+        "link": "word/a-bit-willy-meaning",
+    },
+    {
+        "word": "A bit windy",
+        'meaning1': 'Been annoyed by someone in a room or place and want to tell someone with out offending the person. Can use the direction of the wind to identify the person.',
+        'example1': 'Its a bit windy in here. Theres a wind coming from that direction.',
+        "link": "word/a-bit-windy-meaning",
+    },
+    {
+        "word": "A blonde on a quiz show",
+        'meaning1': 'A phrase that means someone is very stupid.',
+        'example1': 'On that spelling test i was like a blonde on a quiz show.',
+        "link": "word/a-blonde-on-a-quiz-show-meaning",
+    },
+    {
+        "word": "Boily",
+        'meaning1': 'A person who doesn’t really help anyone and acts as if he’s been doing a lot .',
+        'example1': 'Don’t count on him to help you through these tough times, he’s such a boily.',
+        "link": "word/boily-meaning",
+    },
+    {
+        "word": "A bondy",
+        'meaning1': 'When a job takes twice as long as you expected and turns out rubbish',
+        'meaning2': 'A poor quality job that has taken twice as long as it would to do a good job',
+        'example1': 'Oh my god it’s took all day to do that and it’s rubbish I just did a bondy',
+        'example2': 'Look at the state of that looks like a bondy',
+        "link": "word/a-bondy-meaning",
+    },
+    {
+        "word": "A bonnie",
+        'meaning1': 'Used to describe someone who is terribly useless',
+        'example1': 'That girl is such a Bonnie.',
+        "link": "word/a-bonnie-meaning",
+    },
+    {
+        "word": "A Bowman",
+        'meaning1': 'A Bowman is a socially awkward person, who is not good around new people, and generally takes a long time to become comfortable around others. A Bowman normally speaks in a monotone and takes longer to complete simple tasks.',
+        'meaning2': 'Making a decision with zero thought or regard of possible repercussions to yourself or others.',
+        'example1': 'did you take an hour to do that work? yep, i guess you’re a Bowman',
+        'example2': 'Tom was on patrol, a lowly tech walks across his area he sends his attack dog in to absolutely fucking destroy him! Fuck Tom what a bowman!',
+        "link": "word/a-bowman-meaning",
+    },
+    {
+        "word": "Box of hair",
+        'meaning1': 'Used to describe someone with a remarkable lack of intelligence.',
+        'example1': 'That girl is dumber than a box of hair.',
+        "link": "word/box-of-hair-meaning",
+    },
 ]
 
 export default words
