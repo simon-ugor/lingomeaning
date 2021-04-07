@@ -226,6 +226,88 @@ const words = [
         'example1': 'That girl is dumber than a box of hair.',
         "link": "word/box-of-hair-meaning",
     },
+    {
+        "word": "A Box of Matches",
+        'meaning1': 'Used for when a person, place or thing is cool, hip or neat. Because it/they are fire.',
+        'example1': 'Hey, it was nice to meet you, you’re a box of matches!',
+        "link": "word/a-box-of-matches-meaning",
+    },
+    {
+        "word": "a brick away",
+        'meaning1': 'a unit of measurement to mean a large distance, any distance too far that you don’t feel like driving',
+        'example1': 'Man people come all the way up here to ski, geez it’s a brick away.',
+        "link": "word/a-brick-away-meaning",
+    },
+    {
+        "word": "Bumble",
+        'meaning1': 'A chill. A meet-up.',
+        'example1': 'Hey wanna come for a bumble? I’ll pick you up in 10.',
+        "link": "word/bumble-meaning",
+    },
+    {
+        "word": "A bump in the road",
+        'meaning1': 'a small problem that can be solved.',
+        'example1': 'Misunderstanding was just a bump in the road on the way to success.',
+        "link": "word/a-bump-in-the-road-meaning",
+    },
+    {
+        "word": "Cader",
+        'meaning1': 'A person who wants you to feel sorry for them. They think the world is after them and everyone hates them. When something goes wrong they think it’s the worse possibly think and think the world revolves around them and everyone should pay attention to them.',
+        'example1': 'Person 1: My car broke down and it was so difficult to fix it and no one wanted to help me. They all hate me. They want me to die. They wouldn’t care if I commited suicide. Person 2: Oh don’t be such a Cader!',
+        "link": "word/cader-meaning",
+    },
+    {
+        "word": "A carla",
+        'meaning1': 'someone who believes they are an expert in everything',
+        'example1': 'Bob: look at that photograph i mean the lighting is all wrong, the image isn’t even in focus and they don’t know how to use the f- stop.  Bill: dude stop being a carla.',
+        "link": "word/a-carla-meaning",
+    },
+    {
+        "word": "Abasement",
+        'meaning1': 'Action of humbling or degrading',
+        'example1': 'The abasement.',
+        "link": "word/abasement-meaning",
+    },
+    {
+        "word": "Abashful",
+        'meaning1': 'When someone is purposely trying to embarrass you, they are being abashful.',
+        'example1': 'Don’t do that in public! Your being so abashful.',
+        "link": "word/abashful-meaning",
+    },
+    {
+        "word": "Abattoir",
+        'meaning1': 'A fancy word for slaughterhouse.',
+        'meaning2': 'A slaughter house usually for cattle and sheep',
+        'example1': 'There was so much blood it was reminiscent of an abattoir.',
+        'example2': '1st guy:hey man wats that disgusting smell 2nd guy: its the abattoir',
+        "link": "word/abattoir-meaning",
+    },
+    {
+        "word": "Abbarnan",
+        'meaning1': 'A great guy who always loves everyone. Every girl wants him.',
+        'example1': 'Girl 1:I want a Abbarnan Girl 2:me too',
+        "link": "word/abbarnan-meaning",
+    },
+    {
+        "word": "Goyard",
+        'meaning1': 'Goyard is a French trunk and leather goods maker. The brand is known for a certain amount of secrecy, with little knowing where the iconic interlocking Chevron pattern, seen on many Goyard bags, originates from.',
+        'example1': 'Goyard bags full of hundreds.',
+        "link": "word/goyard-meaning",
+        "new": true
+    },
+    {
+        "word": "La familia",
+        'meaning1': 'The family in Spanish.',
+        'example1': 'My la familia go hard.',
+        "link": "word/la-familia-meaning",
+    },
+    {
+        "word": "Abbington",
+        'meaning1': 'Hood. Very ghetto. Scary.',
+        'example1': 'He lives in abbington.',
+        "link": "word/abbington-meaning",
+    },
+
 ]
 
 export default words
