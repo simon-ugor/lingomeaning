@@ -307,7 +307,110 @@ const words = [
         'example1': 'He lives in abbington.',
         "link": "word/abbington-meaning",
     },
-
+    {
+        "word": "Abbieism",
+        'meaning1': 'To make a mistake so stupid it seems unplausable.',
+        'example1': 'When he asked for the radio from my car he meant the walkie talkie on the seat and not the radio that I ripped out.  Whoops what an Abbieism.',
+        "link": "word/abbieism-meaning",
+    },
+    {
+        "word": "ABB party",
+        'meaning1': 'Anything but beer party. Not a hard concept to understand. Bring liquor, wine, vodka, rum, whiskey, etc.',
+        'example1': 'Man, i got brutally wasted at that ABB party last night. I dont think im gonna drink for a while.',
+        "link": "word/abb-party-meaning",
+        "new": true
+    },
+    {
+        "word": "Abayo",
+        'meaning1': 'A word that is used to replace ’sayonara’ (goodbye) or ’matane’ (see you soon) at the end of a sentence in colloquial Japanese speech. It can be translated into English as see ya or catch ya later.  It is part of the Tokyo Shitamachi dialect and used to be a very popular informal slang expression used primarily by boys and men until sometime ago. Its usage has declined in the past 20 years.  Contrary to what the previous poster has written, it is not necessarily a rude way to say bye or only used when you are angry at someone. Although (just like most slang words) if used in the proper context it may be interpreted as being dismissive or sarcastic.',
+        'meaning2': 'Non-common way to say goodbye to your arch enemy before trying to kill each others.',
+        'meaning3': 'a very rude way to say bye in japanese. usually used when you’re pissed off at someone. translates to good Riddance or the hell with ya',
+        'example1': '(in typical colloquial Tokyo Japanese): Ore uchi ni kairu kara matta ashita na. Abayo!  Translation: I am going to go home now so i’ll see you tomorrow. See ya!',
+        'example2': 'Izaya. What? Abayo. ...Yes, this is a goodbye',
+        'example3': 'you: please go out with me hot chick: no way in hell you: abayo!',
+        "link": "word/abayo-meaning",
+    },
+    {
+        "word": "A straight",
+        'meaning1': 'A pre-rolled cigarette that comes in a pack of 10 or 20',
+        'example1': 'Yo Johnny you got a straight',
+        "link": "word/a-straight-meaning",
+    },
+    {
+        "word": "A stroke",
+        'meaning1': 'When a program or platform has glitches that either are extreme or impact performance severely. A common example is when Discord’s voice servers stop working or it sends messages twice.',
+        'example1': 'Sorry, Discord was having a stroke for a bit there. Everything’s good now though.',
+        "link": "word/a-stroke-meaning",
+    },
+    {
+        "word": "A stubborn",
+        'meaning1': 'A person who is so bull headed that they won’t do what they are told to do',
+        'example1': 'You are being such a stubborn.',
+        "link": "word/a-stubborn-meaning",
+    },
+    {
+        "word": "A tall glass of water",
+        'meaning1': 'Something someone refers to as a woman who is tall and they find sexy.',
+        'example1': '“Damn! That woman is a tall glass of water!”',
+        "link": "word/a-tall-glass-of-water-meaning",
+    },
+    {
+        "word": "A Tempe Hangover",
+        'meaning1': 'When you have partied so hard the couple days before, that you entire body shuts down',
+        'example1': 'Marvin: Yo, when I got back from Spring Training I slept for 16 hours non-stop. Then I woke up to my head feeling like it would split in half! Bryce: That’s a Tempe Hangover.',
+        "link": "word/a-tempe-hangover-meaning",
+    },
+    {
+        "word": "A tension",
+        'meaning1': 'A gram of weed',
+        'meaning2': 'A tension is a gram of weed',
+        'example1': 'Aye bro you got a tension',
+        'example2': '“ aye bro you got a tension”......',
+        "link": "word/a-tension-meaning",
+    },
+    {
+        "word": "A Text File",
+        'meaning1': 'A text file is a single file or a description of a single file that works using written characters. A text file can be formatted--it may or may not include pictures, links, or even hyperlinks. A text file is used for the process of words. There are different types of text files. However a .txt format is widely used as a basic application format for note taking usages.',
+        'example1': 'Have you opened a text file formatted file? Have you saved the file as a text file? Is this a text file? Can you save this as a text file? This text file application only uses words and can only format the words.',
+        "link": "word/a-text-file-meaning",
+    },
+    {
+        "word": "A they",
+        'meaning1': 'A person who is nonbinary and uses they/them pronouns.',
+        'example1': 'I’m not a woman or a man, I’m a they.',
+        "link": "word/a-they-meaning",
+    },
+    {
+        "word": "A time",
+        'meaning1': 'Having a time means you had a good time. Basically people got too lazy and dropped the good.',
+        'example1': '1. Last night was a time. 2. I had a time with you yesterday. 3. Let’s get drunk and have a time!',
+        "link": "word/a-time-meaning",
+        "new": true
+    },
+    {
+        "word": "A tommy gun",
+        'meaning1': 'Famous 30’s machine gun, originally designed for use in WWI but never saw active service. Instead it became a favourite of gangsters from NY to Chicago. Most movies of the time feature its distinctive round under-barrel magazine.',
+        'example1': 'My tommy gun is gonna make their heaters look like slingshots.',
+        "link": "word/a-tommy-[gun]-meaning",
+    },
+    {
+        "word": "A trip",
+        'meaning1': 'Meaning that was crazy, weird. You didnt expect what happened or what someone did. Also means someone or a place or situation is funny, strange, not expected. This goes back to the 90s.',
+        'example1': 'That comedian is a trip! That was a trip when that lady started drooling and laughing when I asked her for directions.',
+        "link": "word/a-trip-meaning",
+    },
+    {
+        "word": "A truck",
+        'meaning1': 'A male or a female with over powering muscle definition.',
+        'example1': 'Dude she’s a truck !',
+        "link": "word/a-truck-meaning",
+    },
+    {
+        "word": "A True OG",
+        'meaning1': 'A straight up old school gangsta',
+        'example1': 'Yo homie don’t mess with him cus he is a true og.',
+        "link": "word/a-true-og-meaning",
+    },
 ]
 
 export default words
