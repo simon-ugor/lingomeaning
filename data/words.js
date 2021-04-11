@@ -391,7 +391,7 @@ const words = [
         "word": "A tommy gun",
         'meaning1': 'Famous 30’s machine gun, originally designed for use in WWI but never saw active service. Instead it became a favourite of gangsters from NY to Chicago. Most movies of the time feature its distinctive round under-barrel magazine.',
         'example1': 'My tommy gun is gonna make their heaters look like slingshots.',
-        "link": "word/a-tommy-[gun]-meaning",
+        "link": "word/a-tommy-gun-meaning",
     },
     {
         "word": "A trip",
