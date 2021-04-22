@@ -193,6 +193,15 @@
     color: black;
 }
 
+.colden-lyrics {
+    text-decoration: underline;
+    font-family: regular;
+    font-size: 2vh;
+    margin-bottom: 2vh;
+    cursor: pointer;
+    color: black;
+}
+
 .letter-artists {
     text-decoration: underline;
     font-family: regular;

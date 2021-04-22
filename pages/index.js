@@ -79,6 +79,7 @@ const Index = () => {
 
                 </div>
                 <Link href="all-words"><a className="all-artists">All meanings</a></Link>
+                <a target="_blank" href="https://coldenlyrics.com/" className="colden-lyrics">ColdenLyrics</a>
                 <Footer />
             </div>
         </Layout>
